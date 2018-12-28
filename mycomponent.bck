@@ -1,3 +1,8 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP DOIT_ESP32_DevKit_v1
+D ESP32-WROOM-32 DOIT DevKit v1
+K ESP32
+$ENDCMP
+#
 #End Doc Library
