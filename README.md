@@ -12,3 +12,4 @@ KiCadのコンポーネントとフットプリントで
 |6P6C|7002-6P6C(15mm)|-|o|o|
 |esp32|NodeMCU ESP-32S|-|o|o|
 |esp32|DOIT ESP32|-|o|o|
+|NUCLEO-F303RE|NUCLEO-F303RE|-|-|o|
