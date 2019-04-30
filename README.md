@@ -13,3 +13,4 @@ KiCadのコンポーネントとフットプリントで
 |esp32|NodeMCU ESP-32S|-|o|o|
 |esp32|DOIT ESP32|-|o|o|
 |NUCLEO-F303RE|NUCLEO-F303RE|-|-|o|
+|RN42|RN42評価ボード|-|-|o|
