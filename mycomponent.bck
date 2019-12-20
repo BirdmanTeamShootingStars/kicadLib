@@ -1,8 +1,19 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP DOIT_ESP32_DevKit_v1
-D ESP32-WROOM-32 DOIT DevKit v1
-K ESP32
+$CMP BP5293-50
+D DCDC, 7~24V to 5V. 1A
+$ENDCMP
+#
+$CMP FXAS21002C
+D gyroscope
+$ENDCMP
+#
+$CMP MAU102
+D 1W, DCDC, isolated
+$ENDCMP
+#
+$CMP XL6009
+D DCDC, input 3.5-32V, output 5V-35V
 $ENDCMP
 #
 #End Doc Library
